@@ -34,7 +34,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "unlocked_india"
         }
     },
     "stack": "container"
